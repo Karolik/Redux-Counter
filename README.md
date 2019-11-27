@@ -21,7 +21,7 @@ The initial number is 0.
 
 You need to have access to the Internet and a browser installed (preferably Google Chrome) to run this app.
 
-To open the application open the index.html file.
+To open the application: load index.html in Chrome.
 
 ## Languages used
 
